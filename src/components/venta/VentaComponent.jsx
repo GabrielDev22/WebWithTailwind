@@ -153,7 +153,7 @@ export const VentaComponent = () => {
             </div>
         </div>
 
-            <Link className="text-white text-none" to="/compraExpress"><butto className="font-serif text-2xl text-white w-48 p-2 rounded-md lg:ml-[40rem] mb-12 bg-red-700 border-solid border-white">Ver mas</butto></Link>
+            <Link className="text-white text-none" to="/compraExpress"><butto className="font-serif text-2xl text-white w-44 p-2 rounded-md lg:ml-[34rem] mb-12 border-white border-solid  bg-red-700">Ver mas</butto></Link>
             <hr />
     </div>
   )

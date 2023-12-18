@@ -4,9 +4,9 @@ export const InicioComponent = () => {
   return (
     <div>
         <div className="bg-white">
-            <h2 className="text-white font-serif text-4xl ml-96 mt-60 absolute drop-shadow-2xl">Nuevos Precios</h2>
-            <p className="absolute ml-96 mt-80 font-serif text-2xl text-white drop-shadow-2xl">EXCLUSIVOS DE CUVIER</p>
-            <button className="bg-red-800 w-44 p-3 absolute ml-96 mt-96 border-solid border-2 border-gray-200"><a className="text-white text-none font-serif text-2sm" href="">Explorar</a></button>
+            <h2 className="text-black font-serif text-4xl lg:ml-[32rem] mt-60 absolute drop-shadow-2xl">Nuevos Precios</h2>
+            <p className="absolute lg:ml-[30rem] mt-80 font-serif text-2xl text-black drop-shadow-2xl">EXCLUSIVOS DE CUVIER</p>
+            <button className="bg-red-800 w-44 p-1 absolute lg:ml-[33rem] lg:mt-[25rem] border-solid border-2 border-gray-200"><a className="text-white text-none font-serif text-2sm" href="">Explorar</a></button>
             <div className="w-100% h-100%">
                 <img className="w-100% h-100% object-cover object-right-left" src="img/imagenInicio.webp" alt="" />
             </div>
